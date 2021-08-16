@@ -7,3 +7,8 @@
 	path = stesi/fleet_project_task
 	url = git@github.com:stesi/fleet_project_task.git
 	branch = 14.0
+
+[submodule "stesi/adaslab_customization"]
+	path = stesi/adaslab_customization
+	url = git@github.com:stesi/adaslab_customization.git
+	branch = 14.0
