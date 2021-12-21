@@ -12,3 +12,8 @@
 	path = stesi/adaslab_customization
 	url = git@github.com:stesi/adaslab_customization.git
 	branch = 14.0
+
+[submodule "stesi/stesi_rest"]
+	path = stesi/stesi_rest
+	url = git@github.com:stesi/stesi_rest.git
+	branch = 14.0
