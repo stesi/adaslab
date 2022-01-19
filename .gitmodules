@@ -1,0 +1,24 @@
+[submodule "OCA/commission"]
+	path = OCA/commission
+	url = git@github.com:OCA/commission.git
+	branch = 14.0
+
+[submodule "stesi/fleet_project_task"]
+	path = stesi/fleet_project_task
+	url = git@github.com:stesi/fleet_project_task.git
+	branch = 14.0
+
+[submodule "stesi/adaslab_customization"]
+	path = stesi/adaslab_customization
+	url = git@github.com:stesi/adaslab_customization.git
+	branch = 14.0
+
+[submodule "stesi/stesi_rest"]
+	path = stesi/stesi_rest
+	url = git@github.com:stesi/stesi_rest.git
+	branch = 14.0
+
+[submodule "stesi/stesi_adaslab"]
+	path = stesi/stesi_adaslab
+	url = git@github.com:stesi/stesi_adaslab.git
+	branch = 14.0
