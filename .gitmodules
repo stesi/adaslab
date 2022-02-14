@@ -22,3 +22,8 @@
 	path = stesi/stesi_adaslab
 	url = git@github.com:stesi/stesi_adaslab.git
 	branch = 14.0
+
+[submodule "stesi/select_all_companies"]
+	path = stesi/select_all_companies
+	url = git@github.com:stesi/select_all_companies.git
+	branch = 14.0
