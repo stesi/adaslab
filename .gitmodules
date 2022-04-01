@@ -37,3 +37,8 @@
 	path = stesi/stesi_website
 	url = git@github.com:stesi/stesi_website.git
 	branch = 14.0
+
+[submodule "OCA/website"]
+	path = OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 14.0
