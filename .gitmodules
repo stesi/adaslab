@@ -97,3 +97,8 @@
 	path = ingegniamo/fleet_vehicle_equipment
 	url = git@github.com:ingegniamo/fleet_vehicle_equipment.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_terms_condition_editable"]
+	path = ingegniamo/account_terms_condition_editable
+	url = git@github.com:ingegniamo/account_terms_condition_editable.git
+	branch = 14.0
