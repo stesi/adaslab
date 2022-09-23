@@ -102,3 +102,8 @@
 	path = ingegniamo/account_terms_condition_editable
 	url = git@github.com:ingegniamo/account_terms_condition_editable.git
 	branch = 14.0
+
+[submodule "OCA/social"]
+	path = OCA/social
+	url = git@github.com:OCA/social.git
+	branch = 14.0
