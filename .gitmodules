@@ -117,3 +117,8 @@
 	path = stesi/stesi_connectors
 	url = git@github.com:stesi/stesi_connectors.git
 	branch = 14.0
+
+[submodule "ingegniamo/cierreeffe_autoacademy_integration"]
+	path = ingegniamo/cierreeffe_autoacademy_integration
+	url = git@github.com:ingegniamo/cierreeffe_autoacademy_integration.git
+	branch = 14.0
